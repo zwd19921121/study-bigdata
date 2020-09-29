@@ -1,12 +1,9 @@
 # study-bigdata
 
 <table border="1" align="center">
-     <tr>
-        <th>模块</th>
-        <th>内容</th>
-    </tr>
     <tr>
         <td rowspan="2"><a href="#一HDFS">HDFS</a></td>
+        <td rowspan="2"><image src="img/hadoop.jpg"></image></td>
        	<td>1.[大数据应用常用打包方式](notes/test.md)</td>
     </tr>
      <tr>
@@ -19,6 +16,7 @@
      <tr>
     	<td>2.ddd</td>
     </tr>
+
 
 
 </table>
