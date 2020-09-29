@@ -2,24 +2,15 @@
 
 <table border="1" align="center">
     <tr>
-        <td rowspan="2" width=120 height=30>HDFS</a></td>
-       	<td width=800 height=30>1.[大数据应用常用打包方式](notes/test.md)</td>
-    </tr>
-     <tr>
-    	<td>2.ddd</td>
-    </tr>
-    <tr>
-        <td rowspan="2" height=30>MapReduce</td>
-       	<td height=30><a href="notes/test.md">大数据应用常用打包方式</td>
-    </tr>
-     <tr>
-    	<td>2.ddd</td>
+        <td rowspan="3" width=120 height=30>Hadoop</a></td>
+		<td rowspan="2" width=200 height=30>HDFS</td>
+       	<td width=600 height=30><a href="notes/hadoop/hdfs/dd">1.Hadoop集群安装</td>
     </tr>
  	<tr>
-        <td rowspan="2" height=30>Yarn</td>
-       	<td height=30><a href="notes/test.md">大数据应用常用打包方式</td>
+    	<td>2.ddd</td>
     </tr>
      <tr>
+        <td rowspan="1" width=200 height=30>YARN</td>
     	<td>2.ddd</td>
     </tr>
 </table>
