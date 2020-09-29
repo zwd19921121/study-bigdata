@@ -40,14 +40,14 @@
 		<td width=600 height=30><a href="notes/hadoop/hadoop集群安装.md">Hadoop集群安装</td>
 	</tr>
 	<tr>
-		<td rowspan="2" width=200 height=30>Spark RDD</td>
-	   	<td width=600 height=30><a href="notes/hadoop/hdfs/dd">1.HDFS介绍</td>
+        <td rowspan="2" width=200 height=30><a href="notes/spark/spark基础.md">Spark 基础</a></td>
+        <td width=600 height=30><a href="notes/spark/spark基础.md">1.Spark概述</a></td>
 	</tr>
  	<tr>
     	<td>2.ddd</td>
     </tr>
 <tr>
-		<td rowspan="2" width=200 height=30>Spark Sql</td>
+		<td rowspan="2" width=200 height=30>Spark Core</td>
 	   	<td width=600 height=30><a href="notes/hadoop/hdfs/dd">1.HDFS介绍</td>
 	</tr>
  	<tr>
