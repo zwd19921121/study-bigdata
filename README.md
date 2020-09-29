@@ -2,8 +2,8 @@
 
 <table border="1" align="center">
     <tr>
-        <td rowspan="2" width=50><a href="#一HDFS">HDFS</a></td>
-       	<td width=500>1.[大数据应用常用打包方式](notes/test.md)</td>
+        <td rowspan="2" width=100><a href="#一HDFS">HDFS</a></td>
+       	<td width=800>1.[大数据应用常用打包方式](notes/test.md)</td>
     </tr>
      <tr>
     	<td>2.ddd</td>
