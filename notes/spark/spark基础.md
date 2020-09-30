@@ -502,7 +502,7 @@ hadoop202 的 master 会自动切换成 Active
 
 #### 2.3.6 Standalone 工作模式图解
 
-![Standalone 工作模式图解](https://gitee.com/zhdoop/blogImg/raw/master/img/Spark standalone工作图解.png)
+![Standalone 工作模式图解](https://gitee.com/zhdoop/blogImg/raw/master/img/Spark standalone_工作图解.png)
 
 ### 2.4 Yarn模式
 
